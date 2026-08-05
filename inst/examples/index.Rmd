@@ -1,6 +1,6 @@
 --- 
-title: "bookdown: Authoring Books and Technical Documents with R Markdown"
-author: "Yihui Xie"
+title: "AWM/AME Technical Part -A"
+author: "Gusidi Rambabu"
 date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
 documentclass: krantz
